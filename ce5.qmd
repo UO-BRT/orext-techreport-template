@@ -1,0 +1,188 @@
+# Inclusion of All Students
+
+## 5.1 Procedures for Including SWDs 
+
+The Oregon assessment system provides explicit guidance regarding the
+participation of all public school students in its statewide assessment program
+(see Section 1.4).
+
+### 5.1A Clear Explanations of the Differences Between Assessments 
+
+The assessment options for all public school students in Oregon are elaborated
+in the Oregon Test Administration Manual (see *Appendix* 1.4.2, p. 7). These
+options include the Smarter Balanced Assessment in English language arts and
+mathematics in Grades 3-8 & 11, the Oregon Assessment of Knowledge and Skills in
+science in Grades 5, 8, & 11, and in the same content areas and grade levels for
+SWSCD who take the ORExt (see *Appendix* 1.4.2, p. 92-93). Social studies
+assessment is a district option within the OAKS portal, as well. In addition,
+expectations for the English Language Proficiency Assessment (ELPA) and the
+Kindergarten Assessment are provided.
+
+### 5.1B Eligibility Decisions Made by IEP Teams 
+
+A student's IEP team determines how a student with disabilities will participate
+in the Oregon Statewide Assessment program. The IEP team must address the
+eligibility criteria for participation in the ORExt before determining that the
+assessment is the appropriate option (see *Appendix* 5.1B).
+
+### 5.1C Guidelines for Assessment Selection 
+
+As noted earlier, IEP teams make decisions regarding how students with
+disabilities participate in the Oregon statewide assessment program. At present,
+students participate in one of three options: (a) student takes the general
+assessment with or without universal tools. (b) student takes the general
+assessment with designated supports and/or accommodations, or (c) student takes
+the ORExt. Guidelines for making universal support, designated support, and
+accommodations decisions for the general assessments are provided in *Appendix*
+2.3A.1. Guidelines for making these determinations for SWSCD who participate in
+AA-AAAS are provided in *Appendix* 5.1B.
+
+### 5.1D Information on Accessibility Options 
+
+Information regarding accessibility options for the general assessment can be
+found with the general assessment Peer Review evidence. For the ORExt,
+accessibility is treated holistically, with universal design for assessment
+concepts embedded in the item design and a wide variety of accommodations also
+available if needed. Items are crafted to be visually simple and clean. Graphic
+supports, which are always black/white line drawings, are embedded in all items
+at the low level of complexity but are phased out as items become more complex.
+Items are designed to incorporate simplified language unless specific academic
+vocabulary and concepts is what is being tested (see *Appendix* 2.3A.3). The
+items on the ORExt are all selected response, with three response options
+allowing for multiple modes of access (e.g., saying the answer, pointing to the
+answer, eye gaze, switch, etc.). All text presented to students is at least
+18-pt font (larger, of course, in the large print version). Sample items are
+presented in *Appendix* 2.2.3. All accessibility supports, designated supports,
+and accommodations for the ORExt are published in *Appendix* 2.3A.1, p. 36-43.
+For students who have very limited to no communication and are unable to access
+even the most accessible items on the ORExt, an Oregon Observational Rating
+Assessment (ORora) was implemented in 2015-16. The ORora is completed by
+teachers and documents the student's level of communication complexity
+(expressive and receptive), as well as level of independence in the domains of
+attention/joint attention and mathematics. The administration instructions and
+2017-18 results for the ORora are included in *Appendix* 5.1D.
+
+### 5.1E Guidance Regarding Appropriate Accommodations 
+
+Guidance regarding appropriate accommodations is published in *Appendix* 2.3A.1.
+District and School Test Coordinators provide annual training on test security
+and administration. The ORExt approaches access as part of test design, as noted
+above in Section 5.1D. The complexity of SWSCD communication systems demands
+such an approach. In addition, comprehensive accommodations are allowed in order
+to decrease the chances that a disability may interfere with our ability to
+measure the student's knowledge and skills.
+
+### 5.1F All SWDs Eligible for the ORExt 
+
+ODE's eligibility guidelines make it clear that all SWDs are eligible for the
+ORExt, regardless of disability category, and that specific disability category
+membership should not be a determining factor for considering participation (see
+*Appendix* 5.1B).
+
+### 5.1G Parents Informed of AA-AAAS Consequences 
+
+The Parent FAQ section of the General Administration Manual makes it clear that
+parents must be informed of the potential consequences of having their child
+assessed against alternate achievement standards, including diploma options.
+Parents are also informed that alternate achievement standards are designed to
+reflect a significant reduction in depth, breadth, and complexity and are
+therefore not comparable to general academic achievement standards (see
+*Appendix* 2.3, p. 28-32).
+
+### 5.1H State Ensures ORExt Promotes Access to the General Education Curriculum
+
+The ORExt is strongly linked to the CCSS/ORSci/NGSS, as evidenced by our linkage
+study results (see *Appendix* 3.1A). The claim is based on the following
+warrants: (a) ORExt items are aligned to the Essentialized Standards; (b) the
+Essentialized Standards are strongly linked to the grade level content
+standards; therefore (c) the ORExt items are strongly linked to grade level
+content expectations. It is thus expected that the ORExt promotes access to the
+general education curriculum by assessing general education content that has
+been reduced in depth, breadth, and complexity yet maintains the highest
+possible standard for SWSCD.
+
+In addition, ODE commissioned BRT to work with Oregon teachers of SWSCD in the
+2015-16 school year to develop a variety of curricular and instructional
+resources that are aligned to the Essentialized Standards. These resources
+include: (a) curricular templates, (b) video tutorials, and (c) supporting
+documents that provide specific guidance regarding how to develop lesson plans,
+Present Levels of Academic and Functional Performance (PLAAFP) statements, and
+Individualized Education Program (IEP) goals and objectives that are aligned
+with the Essentialized Standards. It is also expected that the essentialization
+process will generalize to many students who are performing off grade level, not
+merely to SWSCD. All resources are published on a [BRT-sponsored website](http://lms.brtprojects.org).
+
+## 5.2A - 5.2C Procedures for Including ELs 
+
+In addition to the programmatic guidance provided in *Appendix* 1.4A.1 related
+to EL program eligibility and services, ODE also provides guidance relevant to
+the inclusion of ELs in the statewide assessment program in *Appendix* 1.4.2.
+Though the ORExt is currently published in English, an appropriately qualified
+interpreter can provide the assessment to any SWSCD from diverse language
+backgrounds, including American Sign Language. ODE has developed a training
+module to increase the standardization of [ASL
+administration](http://lms.brtprojects.org) for its statewide
+assessments.
+
+Additional information regarding the inclusion of ELs in Oregon's general
+assessments is provided in the general assessment Peer Review evidence.
+
+## 5.3 Accommodations 
+
+All statewide accommodation guidance is published in the Accessibility Manual
+(see *Appendix* 2.3A.1), outlining the universal tools and designated supports
+available to all students, and accommodations, available only to students with
+disabilities or students served by Section 504 Plans. In addition, the manual
+defines the supports as embedded, where they are provided by the online test
+engine (e.g., calculator, text-to-speech), or non-embedded, where they must be
+provided by a qualified assessor (e.g., read aloud, scribe). The manual also
+makes it clear that these supports are content-area specific, as a universal
+tool in one content area may be an accommodation in another.
+
+### 5.3A Appropriate Accommodations are Available for SWD/ Section 504
+
+Appropriate accommodations for the ORExt are published in *Appendix* 2.3A.1, p.
+36-43. Additional accommodations for all statewide assessments are also
+published in this manual. The Oregon Accommodations Panel reviews the
+appropriateness of the supports listed annually. Practitioners may also request
+the addition of an accommodation through a formal process (see *Appendix* E:
+Approval Process for New Accessibility Supports within the manual, *Appendix*
+2.3A.1, p. 100-102).
+
+### 5.3B Appropriate Accommodations are Available for ELs 
+
+As noted in Sections 5.2A-C, the ORExt is accessible in any communication
+modality through the use of an interpreter. Appropriate accommodations for the
+ORExt are published in *Appendix* 2.3A.1, p. 36-43. Additional accommodations
+for all statewide assessments are also published in this manual. The Oregon
+Accommodations Panel reviews the appropriateness of the supports listed
+annually. Practitioners may also request the addition of an accommodation
+through a formal process (see *Appendix* E: Approval Process for New
+Accessibility Supports within the manual, *Appendix* 2.3A.1, p. 100-102).
+
+### 5.3C Accommodations are Appropriate and Effective 
+
+In addition to the evidence gathered during the linkage study (see *Appendix*
+3.1A), which suggests that the ORExt items were accessible and free of bias even
+before final editing, the appropriateness of the supports listed in *Appendix*
+2.3A.1 is reviewed annually by the Oregon Accommodations Panel. Practitioners
+may also request the addition of an accommodation through a formal process (see
+*Appendix* E: Approval Process for New Accessibility Supports within the manual,
+*Appendix* 2.3A.1, p. 100-102). ODE is collecting accommodations codes for the
+ORExt from Qualified Assessors who opt to enter this information in order to
+make performance comparisons feasible. Accommodations information was collected
+in this year's assessment. A study on the effect of the use of different
+accommodations will be conducted and reported in the 2018-19 technical report.
+
+### 5.3D Accommodations are Appropriate and Effective
+
+ODE has a formal process stakeholders can use to request accommodations that are
+not already published in the Accessibility Manual (see *Appendix* E: Approval
+Process for New Accessibility Supports within the manual, *Appendix* 2.3A.1, p.
+100-102).
+
+## 5.4A - 5.4E Monitoring Test Administration for Special Populations
+
+ODE monitoring of test administration in its districts and schools is elaborated
+within the general assessment Peer Review evidence and is therefore not
+addressed here.
