@@ -13,19 +13,35 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
+      
       # Download a copy of the repo
       - uses: actions/checkout@v2
+      
       # Setup pandoc (might be included with Quarto action?) 
       - uses: r-lib/actions/setup-pandoc@v2
+      
       # Setup R
       - uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
+      
+      - name: Cache Renv packages
+        uses: actions/cache@v2
+        with:
+          path: $HOME/.local/share/renv
+          key: r-${{ hashFiles('renv.lock') }}
+          restore-keys: r-
+          
+      - name: Install packages
+        run: |
+          R -e 'install.packages("renv")'
+          R -e 'renv::restore()'
 
       # Grab a copy of quarto and render the document in all formats
       - uses: quarto-dev/quarto-actions/install-quarto@v1
       - run: |
           quarto render --to all
+      
       # Deploy the rendered _book directory onto Pages
       - name: Deploy to GitHub pages 🚀
         if: github.event_name != 'pull_request'
