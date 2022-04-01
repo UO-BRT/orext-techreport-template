@@ -9,7 +9,7 @@ on:
 name: quarto-render
 jobs:
   quarto-linux:
-    runs-on: ubuntu-latest
+    runs-on:  macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
