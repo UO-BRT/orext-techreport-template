@@ -40,10 +40,11 @@ jobs:
       # Grab a copy of quarto and render the document in all formats
       - uses: quarto-dev/quarto-actions/install-quarto@v1
       - run: |
+          quarto tools install tinytex
           quarto render --to all
       
       # Deploy the rendered _book directory onto Pages
-      - name: Deploy to GitHub pages 🚀
+      - name: Deploy to publishing branch for netlify
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
