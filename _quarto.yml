@@ -31,6 +31,7 @@ format:
     echo: false
   pdf:
     documentclass: scrreprt
+    echo: false
 
 
 
