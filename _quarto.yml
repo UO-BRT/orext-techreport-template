@@ -7,6 +7,9 @@ book:
     - "Brock Rowley"
     - "Chris Loan"
     - "Gerald Tindal"
+  cover-image: img/stateofOR.png
+  repo-url: https://github.com/UO-BRT/orext-techreport-template
+  downloads: [pdf]
   date: "3/31/2022"
   chapters:
     - index.qmd
@@ -17,7 +20,7 @@ book:
     - ce5.qmd
     - ce6.qmd
     - references.qmd
-  appendices: 
+  appendices:
       - app1.qmd
 
 bibliography: references.bib
