@@ -13,8 +13,7 @@ Education Service Districts, and school district representatives provided
 feedback on the draft CCSS standards.
 
 Similarly, the SBE adopted the [Next Generation Science Standards
-(NGSS)](https://www.oregon.gov/ode/educator-resources/standards/science/Pages/Science-Standards.aspx)
-  on March 6, 2014. The NGSS establish learning targets for all
+(NGSS)](https://www.oregon.gov/ode/educator-resources/standards/science/Pages/Science-Standards.aspx) on March 6, 2014. The NGSS establish learning targets for all
 students in Oregon's public schools in Grades K-12. The ODE and the Oregon
 Science Content and Assessment Panel provided direct feedback related to the
 NGSS. The NGSS are being phased in over time instructionally, so students are
@@ -33,7 +32,7 @@ designations for estimated difficulty of an item: L (low), M (medium), and H
 1.2.
 
 See [*Appendix* 1.1](app1.qmd) for a User Guide that explains the development process and
-intended uses for the EAFs. 
+intended uses for the EAFs.
 
 ![](img/Grade5.png)
 

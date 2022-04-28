@@ -167,30 +167,30 @@ order to demonstrate that the provision of language accommodations is not
 providing any advantage to students with limited English proficiency, nor any
 disadvantage to other participants. Accommodations information was collected
 this year as an option for data entry. Entering accommodations information will
-be required next year. Analyses of the impact of accommodation provision on the
-ORExt should thus be feasible after the spring 2019 administration.
+be required each year. Analyses of the impact of accommodation provision on the
+ORExt is feasible after each years administration.
 
 The Oregon Extended assessments can be administered using both Large Print and
 Braille (contracted and non-contracted) versions, as well. Oregon has ensured
 that the Oregon Extended assessments provide an appropriate variety of
 accommodations for students with disabilities. The state has provided guidance
 on accommodations in presentation, response, setting, and timing in the
-Accommodations Manual 2013-14: How to Select, Administer, and Evaluate
+Accessibility Manual 2021-22: How to Select, Administer, and Evaluate
 Accommodations for Oregon's Statewide Assessments (see *Appendix* 2.3A.2). The
 Oregon Extended assessments are also designed according to universal design
 principles and utilize a simplified language approach (see *Appendix* 2.3A.3).
 
-In the 2013-2014 school year, the state developed a training and proficiency
-program for sign language interpretation of its assessments and has updated the
-site annually since that time. The [sign language
-training](http://lms.brtprojects.org) process included videos of
-interpreters administering items to students, materials that support appropriate
-administration (i.e., transcripts and PowerPoint slides that supplement the
-video administrations and the current ODE accommodations manual), and
-proficiency testing to support standardized interpretation for Oregon's
+In the 2021-2022 school year, the state redesigned a training and proficiency
+program for sign language interpretation of its assessments and has
+significantly updated the site during this time. The [sign language
+training](http://or.k12test.com) process included videos of interpreters
+administering items to students, materials that support appropriate
+administration (i.e., transcripts, closed captioning and PowerPoint slides that
+supplement the video administrations and the current ODE accessibility manual),
+and proficiency testing to support standardized interpretation for Oregon's
 assessments, including the ORExt. A 10-item proficiency test was administered,
-with an 80% required for passing (8/10 items correct). In 2017-18, the site was
-used to train 61 participants. All participants passed the assessment on the
+with an 80% required for passing (8/10 items correct). In 2021-22, the site was
+used to train 48 participants. All participants passed the assessment on the
 first attempt. The overall average score on the proficiency test was 95.9%.
 
 The ORExt assessments provide an appropriate variety of linguistic
@@ -220,11 +220,8 @@ model. QTs then provide direct trainings for new QAs in their respective
 regions.
 
 The Oregon Department of Education (ODE) provided four direct statewide
-trainings for new Qualified Trainers (QTs) and Qualified Assessors (QAs) in
-face-to-face regional trainings. The schedule for the regional trainings, as
-well as relevant training information, is provided below: 
-
-![](img/2018_19_TrainingSchedule.png)
+trainings for new Qualified Trainers (QTs) and returning QTs in Zoom regional
+trainings. The the regional trainings were provided at two separate time slots on November 10th and November 17 for a total of four QT training opportunities.
 
 Only trained Qualified Assessors (QAs) can administer the Oregon Extended
 assessment. Qualified Assessors who also receive direct instruction from ODE and
@@ -239,18 +236,18 @@ Training and Proficiency Website](http://or.k12test.com/). All
 assessors need to complete some form of training each year to retain their
 status for administering the Extended Assessments.
 
-New assessors and returning assessors who needed further training in 2017-18
-were required to pass four proficiencies with a score of 80% or higher. These
-four proficiencies were in Administration, English Language Arts (ELA),
-Mathematics, and Science. Returning QAs or QTs for the 2017-18 school year only
+New assessors and returning assessors needed further training in 2021-22 and
+were required to pass proficiencies with a score of 80% or higher. These
+proficiencies covered areas in Administration, English Language Arts (ELA),
+Mathematics, and Science. Returning QAs or QTs for the 2021-22 school year only
 needed to pass a Refresher Proficiency, again with a score of 80% or higher. The
 tables below contain data on the number of assessors (participants) in each of
-the four proficiencies, as well as the Refresher Proficiency. Included in the
+the proficiencies, as well as the Refresher Proficiency. Included in the
 data is the number of attempts needed to attain a passing score as well as the
 average passing score of the participants.
 
 An analysis of the Oregon Extended Assessment Training and Proficiency Website
-showed 377 Assessors in-Training, 928 Qualified Assessors, and 137 Qualified
+showed #? Assessors in-Training, #? Qualified Assessors, and #? Qualified
 Trainers registered with the system.
 
 ![](img/QA_QT_TestPartic_1819.png)
