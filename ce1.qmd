@@ -111,7 +111,7 @@ grade, including students re-enrolled in the same grade as in the prior year,
 unless the student receives a parent-requested exemption..." (see *Appendix*
 1.4.2, p. 93).
 
-### 1.4A English Learners 
+### 1.4A English Learners {.unnumbered}
 
 English learners are included as appropriate in Oregon's statewide assessment
 system. (see *Appendix* 1.4A.1, pp. 31-33). The Smarter Balanced assessment
@@ -123,7 +123,7 @@ In addition, the accommodations available to students who participate in the
 ORExt include translation into the native language, where appropriate (see
 *Appendix* 2.3A1, pp. 36-43).
 
-### 1.4B Native Language Assessments 
+### 1.4B Native Language Assessments {.unnumbered}
 
 The ORExt is not administered in a native language format, though it can be
 translated into a student's home language.
