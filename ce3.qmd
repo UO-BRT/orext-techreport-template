@@ -69,7 +69,7 @@ that the alternate assessment judged against alternate achievement standards
 allows valid inferences to be made on state accountability proficiency
 standards.
 
-### 3.1A Alignment Between AA-AAAS and Academic Content Standards
+### 3.1A Alignment Between AA-AAAS and Academic Content Standards {.unnumbered}
 
 Our foundation of validity evidence from content coverage for the ORExt comes in
 the form of test specifications (see *Appendix* 2.1) and test blueprints (see
@@ -146,7 +146,7 @@ included achievement level descriptors and cut scores, which define Oregon's new
 alternate achievement standards (AAS). The State Board of Education officially
 adopted the AAS on June 25, 2015.
 
-### 3.1B AA-AAAS Linkage to General Content Standards
+### 3.1B AA-AAAS Linkage to General Content Standards {.unnumbered}
 
 Results of the analysis of the linkage of the new Essentialized
 Assessment Frameworks, (EAF), composed of Essentialized Standards (EsSt), to
@@ -393,7 +393,7 @@ only has two possible scale score points (e.g., Grade 7, where Level 2 exists
 between 207-208 scaled scores). The addition of 1-2 low complexity items per
 assessment will be effected in mathematics to address this concern, as well.
 
-## 3.4 Validity Based on Relations to Other Variables 
+## 3.4 Validity Based on Relations to Other Variables
 
 Perhaps the best model for understanding criterion-related evidence comes from
 Campbell and Fiske (1959)  in their description of the multi-trait, multi-method
@@ -409,7 +409,7 @@ performance on items is totaled within categories of disability, expecting
 relations that would reflect appropriate differences (see Tindal, McDonald,
 Tedesco, Glasgow, Almond, Crawford, & Hollenbeck, 2003).
 
-### Convergent and Divergent Validity Documentation 
+### Convergent and Divergent Validity Documentation
 
 Criterion validity information is difficult to document with AA-AAAS, as most
 SWSCD do not participate in any standardized assessment outside of the ORExt
@@ -445,7 +445,7 @@ is sampling academic domains that the field of QAs and QTs deem appropriate in
 the area of academics. See *Appendix* 2.3B.10 for complete consequential
 vailidity study results.
 
-### Analyses Within and Across Subject Areas 
+### Analyses Within and Across Subject Areas
 
 We conducted correlational analyses to further explore the validity of the
 ORExt. We first describe the purpose of the analysis, as well as our anticipated
@@ -467,7 +467,7 @@ Therefore, we would expect moderately strong correlations (e.g., 0.7) simply
 because of the within-subject design. Idiosyncratic variance associated with the
 individual student is thus captured.
 
-### Correlational Analyses Results 
+### Correlational Analyses Results
 
 Full results of the Pearson's product-moment correlation analysis by content
 area and grade level are reported below. The results are significant, yet the

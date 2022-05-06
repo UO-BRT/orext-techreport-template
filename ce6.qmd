@@ -11,29 +11,28 @@ mathematics in Grades 3-8 and 11. The ORExt is administered in science in Grades
 mathematics. The new ORExt is dually linked to Oregon's former science
 standards, as well as to the NGSS. Results from the English language arts and
 math administrations are included in calculations of participation and
-performance for Annual Measurable Objectives (AMO) - a provision of the No
-Child Left Behind Act (NCLB). Science participation is also included as part of
-the Title 1 Assessment System requirements, and is administered in grades 5, 8,
-& 11.
-The revised ORExt is built upon a vertical scale in order to support reliable
-determinations of annual academic growth in ELA and mathematics in Grades 3-8.
-The complete vertical scaling plan and operational item selection decision rules
-are located in *Appendix* 2.2.1.
+performance for Annual Measurable Objectives (AMO) - a provision of the No Child
+Left Behind Act (NCLB). Science participation is also included as part of the
+Title 1 Assessment System requirements, and is administered in grades 5, 8, &
+11. The revised ORExt is built upon a vertical scale in order to support
+reliable determinations of annual academic growth in ELA and mathematics in
+Grades 3-8. The complete vertical scaling plan and operational item selection
+decision rules are located in *Appendix* 2.2.1.
 
-### 6.1A State Formally Adopted Alternate Academic Achievement Standards 
+### 6.1A State Formally Adopted Alternate Academic Achievement Standards {.unnumbered}
 
 The State Board of Education formally adopted the AAAS and achievement level
 descriptors (ALDs) on June 25, 2015 (see *Appendix* 6.1A.1). The ELA, Math, and
 Science AAAS, including both the ALDs and the requisite cut scores are included
 in *Appendix* 6.1.A.2.
 
-### 6.1B State Applies AAAS to All Public School SWSCD in Tested Grades 
+### 6.1B State Applies AAAS to All Public School SWSCD in Tested Grades {.unnumbered}
 
 The state applies the AAAS to all public school-served SWSCD who participate in
 the ORExt in Grades 3-8 & 11 in English language arts and mathematics, and in
 Grades 5, 8, & 11 in science.
 
-### 6.1C State's AAAS Include At Least Three Levels, ALDs, and Cut Scores 
+### 6.1C State's AAAS Include At Least Three Levels, ALDs, and Cut Scores {.unnumbered}
 
 The alternate academic achievement standards in Oregon are composed of four
 levels (though only three are required). In descending order, they are (a) Level
@@ -50,11 +49,11 @@ and science for the ORExt, including the achievement level descriptors (ALDs)
 and cut scores, were established during standard setting meetings held on June
 15 (science), 16 (mathematics), and 17 (English language arts).
 
-## 6.2 Achievement Standard Setting 
+## 6.2 Achievement Standard Setting
 
 Standard Setting meetings were held at the University of Oregon in Eugene, OR on
 June 15, 2015 (Science), June 16, 2015 (Mathematics), and June 17, 2015 (English
-language arts).  A total of 53 standard setters were involved in the process: 11
+language arts). A total of 53 standard setters were involved in the process: 11
 in Science, and 21 in both English language arts and Mathematics. Panelists were
 assembled in grade level teams of three, where two members were special
 educators and one member was a content specialist.
@@ -74,7 +73,7 @@ significant cognitive disabilities (SWSCDs), the Oregon Extended Assessment test
 design and history, as well as the bookmarking standard setting method.
 Panelists were quite confident in their preparation and final judgments, as
 evidenced by responses to the questions: (a) " The training helped me understand
-the bookmark method and how to perform my role as a standard setter."  (b) "I am
+the bookmark method and how to perform my role as a standard setter." (b) "I am
 confident about the defensibility and appropriateness of the final recommended
 cut scores." and, (c) "Overall, I am confident that the standard setting
 procedures allowed me to use my experience and expertise to recommend cut scores
@@ -93,9 +92,7 @@ setter judgments to the greatest possible degree. Six changes were made in ELA
 and Mathematics. Science is not built upon a vertical scale, so no cut score
 adjustments were necessary in Science. The cut scores are listed below.
 
-![](img/elacutscore.png)
-![](img/mathcutscore.png)
-![](img/sciencecutscore.png)
+![](img/elacutscore.png) ![](img/mathcutscore.png) ![](img/sciencecutscore.png)
 
 <!-- I'd recommend moving all images like the above into code -->
 
@@ -107,7 +104,7 @@ centered on 500, while the Grade 8 Science scale is independent and centered on
 800. An independent auditor evaluated the bookmarking standard setting process.
 The auditor's comprehensive report can be found in *Appendix* 6.2.2.
 
-## 6.3 Challenging and Aligned Academic Achievement Standards 
+## 6.3 Challenging and Aligned Academic Achievement Standards
 
 Oregon educators initially evaluated new Oregon Essentialized Assessment
 Frameworks in two respects. First, educators were asked to determine the
@@ -121,7 +118,7 @@ provided in *Appendix* 3.1A.
 
 ![](img/alignstudy.png)
 
-## 6.4 Reporting 
+## 6.4 Reporting
 
 Oregon's reporting system facilitates appropriate, credible, and defensible
 interpretation and use of its assessment data. With regard to the ORExt, the
@@ -135,7 +132,7 @@ considered here as an overarching summation of the Oregon Extended assessment
 system, as well as the mechanisms that Oregon uses to continuously improve the
 ORExt assessment (see *Appendix* 2.3B.10).
 
-### 6.4A Public Reporting 
+### 6.4A Public Reporting
 
 Oregon reports participation and assessment results for all students and for
 each of the required subgroups in its reports at the school, district, and state
@@ -146,7 +143,7 @@ meet the minimum cell size requirement for each AMO decision: participation,
 achievement in English language arts and math, attendance, and graduation, where
 appropriate (see *Appendix* 2.6C).
 
-### 6.4B State Reports Interpretable Results 
+### 6.4B State Reports Interpretable Results {.unnumbered}
 
 Oregon develops and disseminates individual student data upon final
 determination of accuracy. The state provides districts with individual student
@@ -155,7 +152,7 @@ Standard Error of Measure (SEM) for each student score into the report
 templates. The SEM associated with each cut score is provided in Section 4.1B.
 Also, see the mock-up ISR in *Appendix* 6.4C.
 
-### 6.4C1 - C5 State Provides Individual Student Reports 
+### 6.4C1 - C5 State Provides Individual Student Reports {.unnumbered}
 
 Oregon's student reports provide valid and reliable information regarding
 achievement on the assessments relative to the AAS. The reliability of the data
@@ -170,7 +167,7 @@ These reports are displayed in a simple format that is easy for stakeholders to
 understand. District representatives can translate results for parents as
 necessary. Scaled score interpretation guidance is published in *Appendix* 2.1A.
 
-# Conclusions and Next Steps 
+# Conclusions and Next Steps
 
 In sum, the rigor of the procedural development and statistical outcomes of the
 ORExt were substantive and support the assessments intended purpose. Procedural
@@ -180,7 +177,7 @@ based upon item characteristics. Outcome-related evidence included measure
 reliability analyses, point measure biserials, outfit mean squares, item
 difficulty and person ability distributions, and convergent and divergent
 validity evidence. These sources of evidence were all quite good and provide
-important validity evidence. 
+important validity evidence.
 
 The test development process adhered to procedural guidelines defined by the
 AERA/APA/NCME Standards for Educational and Psychological Testing (2014), as
@@ -256,8 +253,8 @@ on the 2017-18 testing window, enhancements are in process to improve the
 tablet/web-based administration for the 2018-19 testing window. These
 improvements include updates to make administration/data entry more efficient
 for assessors and additional alerts if devices are no longer online. The 2018-19
-testing window was the first year all data entry was held on the BRT
-servers. ODE no longer provides a paper/pencil data entry platform.
+testing window was the first year all data entry was held on the BRT servers.
+ODE no longer provides a paper/pencil data entry platform.
 
 Documenting evidence of validity remains an ongoing and continuous process. Our
 efforts to continue to improve the assessment system are outlined below, as well

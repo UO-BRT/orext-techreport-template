@@ -15,7 +15,7 @@ as a small test-retest assessment of reliability comparisons by means of
 our pilot tablet administration study. There is only one test form for
 the ORExt, so test form comparisons are not possible.
 
-### 4.1A Test Reliability
+### 4.1A Test Reliability {.unnumbered}
 
 Marginal reliability results (true score variance/true score variance +
 error variance) demonstrate that the tests are quite reliable at the
@@ -71,7 +71,7 @@ the r2Winsteps package (Anderson, 2015).
 # code for TCCs here
 ```
 
-### 4.1B Overall and Conditional Standard Errors of Measure
+### 4.1B Overall and Conditional Standard Errors of Measure {.unnumbered}
 
 The average SEM associated with each cut score for 2017-18 student data
 are presented in the table below, supported by a KEY. The SEMs decreased
@@ -87,7 +87,7 @@ Meets Level 3 = Meets Level 4 = Exceeds
 # code for tables with SE for each cut score
 ```
 
-### 4.1C Classification Accuracy & Consistency
+### 4.1C Classification Accuracy & Consistency {.unnumbered}
 
 Results from the 2017-18 ORExt test administration were analyzed using
 Rudner's classification index [@rudner05]. Results closer to 1.0
@@ -303,6 +303,7 @@ The following table is a number key for **Elibibility Codes:**
 -   80 Other Health Impairment
 -   82 Autism Spectrum Disorder
 -   90 Specific Learning Disability
+-   98 Developmental Delay (3-10)
 
 The following tables provide information regarding average student
 performance by grade level and exceptionality category in each of the
