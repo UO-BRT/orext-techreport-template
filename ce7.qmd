@@ -1,8 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+
 # Locally Selected, Nationally Recognized High School Academic Assessments
 
 ## 7.1 State Procedures for the Use of Locally Selected, Nationally Recognized High School Academic Assessments
