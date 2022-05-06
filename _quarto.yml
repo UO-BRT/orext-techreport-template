@@ -19,6 +19,7 @@ book:
     - ce4.qmd
     - ce5.qmd
     - ce6.qmd
+    - ce7.qmd
     - references.qmd
   appendices:
       - app1.qmd
