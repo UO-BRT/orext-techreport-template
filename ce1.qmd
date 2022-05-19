@@ -31,8 +31,8 @@ designations for estimated difficulty of an item: L (low), M (medium), and H
 (high). More information on the essentialization process can be found in section
 1.2.
 
-See [*Appendix* 1.1](app1.qmd) for a User Guide that explains the development process and
-intended uses for the EAFs.
+See @misc{Microsof67:online, for a User Guide that explains the development
+process and intended uses for the EAFs.
 
 ![](img/Grade5.png)
 
