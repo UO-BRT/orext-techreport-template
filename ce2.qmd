@@ -1,4 +1,4 @@
-# Assessment Operations {.unnumbered}
+# Assessment Operations
 
 ## 2.1 Test Design and Development 
 
@@ -73,7 +73,7 @@ security agreements. In addition, all item developers were expected to
 participate in a half-day item development training based upon the following
 schedule: ELA - Tuesday, from 8 AM to 12 PM; Math - Wednesday, from 8 AM to 12
 PM; Science - Thursday, from 8 AM to 12 PM.
-    
+
 ### Minimum Qualifications:
 
 All licensed Oregon public school teachers with at least three years of teaching

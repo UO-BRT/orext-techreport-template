@@ -42,16 +42,16 @@ process and intended uses for the EAFs.
 
 ## Coherent and Rigorous Academic Content Standards 
 
-The CCSS, ORSci, and NGSS define what students in Oregon should know and be able
-to do by the time they graduate from high school. These CCSS, which were
+The CCSS, ORSci, and NGSS define what students in Oregon should know and be
+ableto do by the time they graduate from high school. These CCSS, which were
 developed by national stakeholders and education experts, have been determined
-to be coherent and rigorous by researchers at the Fordham Institute (see
-*Appendix* 1.2). They were also developed with wide stakeholder involvement,
-particularly here in Oregon. The new ORExt is linked directly to the content in
-the CCSS in English language Arts (reading, writing, & language) and
-mathematics. The ORExt is dually linked to the ORSci as well as the NGSS. The
-NGSS are widely accepted by most relevant science instruction organizations as
-reflective of rigorous and coherent science concepts.
+to be coherent and rigorous by researchers at the @carmichael2010state. They
+were also developed with wide stakeholder involvement, particularly here in
+Oregon. The new ORExt is linked directly to the content in the CCSS in English
+language Arts (reading, writing, & language) and mathematics. The ORExt is
+dually linked to the ORSci as well as the NGSS. The NGSS are widely accepted by
+most relevant science instruction organizations as reflective of rigorous and
+coherent science concepts.
 
 The new Essentialized Assessment Frameworks (EAFs) are publicly available. A
 User Guide is provided to instruct educators regarding the intended uses of the
