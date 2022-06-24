@@ -277,8 +277,4 @@ study, distributed item review, test blueprint, item writer training and
 demographics, and item reviewer training and demographics), ORExt test
 reliability evidence, and ORExt consequential validity evidence. Further
 analyses over the coming years are planned to continue the development of
-technical documentation for overall construct validity of the ORExt. The
-technical documentation plan for the 2017 through 2019 school years is provided
-below:
-
-![](img/techdocplan.png)
+technical documentation for overall construct validity of the ORExt.

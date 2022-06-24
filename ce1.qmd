@@ -40,7 +40,7 @@ process and intended uses for the EAFs.
 
 ![](img/Grade11.png)
 
-## Coherent and Rigorous Academic Content Standards 
+## Coherent and Rigorous Academic Content Standards
 
 The CCSS, ORSci, and NGSS define what students in Oregon should know and be
 ableto do by the time they graduate from high school. These CCSS, which were
@@ -64,7 +64,7 @@ of curricular and instructional materials, founded in research-based pedagogy.
 
 ![](img/essentialization.png){fig-alt="Alternate assessment essentialization process flowchart."}
 
-## Required Assessments 
+## Required Assessments
 
 The ORExt assessments were administered in the 2018-19 school year in ELA and
 Math in grades 3-8 and grade 11; Science is assessed in grades 5, 8, & 11. This
@@ -79,7 +79,7 @@ assessed once in the 3-5 grade band, once in the 6-9 grade band, and once in the
 | Mathematics           | X           | X           | X           | X           | X           | X            |
 | Science               |             |             | X           |             | X           | X            |
 
-## Policies for Including All Students in Assessments 
+## Policies for Including All Students in Assessments
 
 Originally, Oregon statute required that all students participate in statewide
 assessments, with exceptions allowed for district-approved parent request for
@@ -128,7 +128,7 @@ ORExt include translation into the native language, where appropriate (see
 The ORExt is not administered in a native language format, though it can be
 translated into a student's home language.
 
-## Participation Data 
+## Participation Data
 
 Oregon's participation data indicate that most students in the tested grade
 levels are included in our assessment system. The students with disabilities

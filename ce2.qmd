@@ -1,6 +1,6 @@
 # Assessment Operations
 
-## 2.1 Test Design and Development 
+## 2.1 Test Design and Development
 
 The test specifications document that describes our approach to assessment and
 test design for the ORExt is published in *Appendix* 2.1. The document includes

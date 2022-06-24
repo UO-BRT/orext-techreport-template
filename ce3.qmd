@@ -358,7 +358,7 @@ visualizations were conducted with **ggplot2** in the **tidyverse** package [@wi
 
 
 
-#### Outfit Mean Square Distributions 
+#### Outfit Mean Square Distributions
 
 Outfit mean square values below 1.0 demonstrate that values are too predictable
 and perhaps redundant, while values above 1.0 indicate unpredictability. Items
@@ -371,7 +371,7 @@ Math and one item in Grade 11 Science will also be removed.
 # code for mean square outfit tables here (mean, min, max)
 ```
 
-### Annual Measureable Objectives Frequencies & Percentages 
+### Annual Measureable Objectives Frequencies & Percentages
 
 Annual Measurable Objective (AMO) calculations were conducted based upon student
 performance on the ORExt tied to the vertical scale using Rasch modeling.
