@@ -37,10 +37,6 @@ Standards (EsSt) that are part of comprehensive Essentialized Assessment
 Frameworks (EAFs) that were written at three levels of complexity (low, medium,
 and high). The EsSt have been linked to grade level content and expectations,
 but systematically reduced in terms of depth, breadth, and complexity (RDBC).
-All ORExt items employed in the 2018-19 ORExt administration, with the
-exception of Grade 7 Math field test items, were developed in
-2014-15. Based on student performance from the 2016-2017 testing year, new and
-Grade 7 Math field test items were written in fall 2017.
 
 A statewide sample of Oregon general and special education teachers have
 reviewed all test items for: 1) alignment to the EAFs, 2) accessibility for
@@ -79,15 +75,10 @@ Non-Regulatory Guidance from the U.S. Department of Education, published on
 September 25, 2015, included an expectation that all alignment studies must be
 independent (see Critical Element 3.1). An independent contractor, Dr. Dianna
 Carrizales, was therefore hired to perform an additional alignment study in the
-spring of 2017. 
+spring of 2017.
 
 A two year pilot tablet study was conducted in the 2015-2016 and 2016-17 school
 years. Over the two year study, 26 students were administered all subject areas
 of the ORExt in tablet format in grades 5, 8, and 11. The 2017-18 school year
 marked the first year the ORExt was available in tablet/online format for all
 grades in all subject areas.
-
-As part of our five-year technical documentation plan, which included the
-independent alignment study, pilot tablet administration study, launch of the
-full tablet administration, inter-rater reliability study, an analyses of the
-impact of accommodations was conducted after the 2018-2019 testing window ended.

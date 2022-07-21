@@ -66,7 +66,7 @@ of curricular and instructional materials, founded in research-based pedagogy.
 
 ## Required Assessments
 
-The ORExt assessments were administered in the 2018-19 school year in ELA and
+The ORExt assessments were administered in the 2021-22 school year in ELA and
 Math in grades 3-8 and grade 11; Science is assessed in grades 5, 8, & 11. This
 assessment plan meets the requirements for grade level assessment in grades 3-8
 and once in high school (grades 10-12) for ELA and Mathematics, while Science is
@@ -100,7 +100,7 @@ However, House Bill 2655 established a Student Bill of Rights on January 1,
 statewide summative assessments, pursuant to OAR § 581-022-1910.
 
 The Governor published a memorandum for Superintendents, Principals, and
-District Test Coordinators related to the change (see *Appendix* 1.4.1).
+District Test Coordinators related to the change (@Exemption).
 
 The expectation that all students in the assessed grades participate, including
 students with disabilities, is elaborated clearly and pervasively across all
@@ -108,20 +108,18 @@ guidance documents. For example in the Oregon Test Administration Manual (TAM),
 where it states that, "All students enrolled in grades 3-8 and in high school
 must take the required Oregon Statewide Assessments offered at their enrolled
 grade, including students re-enrolled in the same grade as in the prior year,
-unless the student receives a parent-requested exemption..." (see *Appendix*
-1.4.2, p. 93).
+unless the student receives a parent-requested exemption..." (TestAdministrationManual).
 
 ### 1.4A English Learners {.unnumbered}
 
 English learners are included as appropriate in Oregon's statewide assessment
-system. (see *Appendix* 1.4A.1, pp. 31-33). The Smarter Balanced assessment
+system. (ELProgramGuide). The Smarter Balanced assessment
 directions are translated into multiple languages and available via the Oaks
 portal. OAR 581-022-0620 (2) requires ODE to provide translated OAKS assessments
 for populations at or above 9% in grades K-12 within three years after the
-school year in which the language exceeds the threshold (see *Appendix* 1.4A.2).
+school year in which the language exceeds the threshold (OregonSe38:online).
 In addition, the accommodations available to students who participate in the
-ORExt include translation into the native language, where appropriate (see
-*Appendix* 2.3A1, pp. 36-43).
+ORExt include translation into the native language, where appropriate (AccessibilityManual).
 
 ### 1.4B Native Language Assessments {.unnumbered}
 

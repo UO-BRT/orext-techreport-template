@@ -5,12 +5,13 @@ book:
   title: "Oregon Extended Assessment Technical Documentation"
   authors:
     - "Brock Rowley"
+    - "Sevrina Tindal"
     - "Chris Loan"
     - "Gerald Tindal"
   cover-image: img/stateofOR.png
   repo-url: https://github.com/UO-BRT/orext-techreport-template
   downloads: [pdf]
-  date: "3/31/2022"
+  date: "7/31/2022"
   chapters:
     - index.qmd
     - ce1.qmd
