@@ -1,6 +1,6 @@
 # Inclusion of All Students
 
-## 5.1 Procedures for Including SWDs
+## Procedures for Including SWDs
 
 The Oregon assessment system provides explicit guidance regarding the
 participation of all public school students in its statewide assessment program
@@ -112,7 +112,7 @@ with the Essentialized Standards. It is also expected that the essentialization
 process will generalize to many students who are performing off grade level, not
 merely to SWSCD. All resources are published on a [BRT-sponsored website](http://lms.brtprojects.org).
 
-## 5.2A - 5.2C Procedures for Including ELs
+## Procedures for Including ELs
 
 In addition to the programmatic guidance provided in *Appendix* 1.4A.1 related
 to EL program eligibility and services, ODE also provides guidance relevant to
@@ -127,7 +127,7 @@ assessments.
 Additional information regarding the inclusion of ELs in Oregon's general
 assessments is provided in the general assessment Peer Review evidence.
 
-## 5.3 Accommodations
+## Accommodations
 
 All statewide accommodation guidance is published in the Accessibility Manual
 (see *Appendix* 2.3A.1), outlining the universal tools and designated supports
@@ -181,7 +181,7 @@ not already published in the Accessibility Manual (see *Appendix* E: Approval
 Process for New Accessibility Supports within the manual, *Appendix* 2.3A.1, p.
 100-102).
 
-## 5.4A - 5.4E Monitoring Test Administration for Special Populations
+## Monitoring Test Administration for Special Populations
 
 ODE monitoring of test administration in its districts and schools is elaborated
 within the general assessment Peer Review evidence and is therefore not

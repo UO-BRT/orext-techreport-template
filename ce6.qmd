@@ -1,6 +1,6 @@
 # Standards and Reporting
 
-## 6.1 State Adoption of Alternate Academic Achievement Standards for SWSCD
+## State Adoption of Alternate Academic Achievement Standards for SWSCD
 
 The Oregon Extended assessment (ORExt), Oregon's Alternate Assessment based on
 Alternate Academic Achievement Standards (AA-AAAS), is part of the Oregon
@@ -49,7 +49,7 @@ and science for the ORExt, including the achievement level descriptors (ALDs)
 and cut scores, were established during standard setting meetings held on June
 15 (science), 16 (mathematics), and 17 (English language arts).
 
-## 6.2 Achievement Standard Setting
+## Achievement Standard Setting
 
 Standard Setting meetings were held at the University of Oregon in Eugene, OR on
 June 15, 2015 (Science), June 16, 2015 (Mathematics), and June 17, 2015 (English
@@ -104,7 +104,7 @@ centered on 500, while the Grade 8 Science scale is independent and centered on
 800. An independent auditor evaluated the bookmarking standard setting process.
 The auditor's comprehensive report can be found in *Appendix* 6.2.2.
 
-## 6.3 Challenging and Aligned Academic Achievement Standards
+## Challenging and Aligned Academic Achievement Standards
 
 Oregon educators initially evaluated new Oregon Essentialized Assessment
 Frameworks in two respects. First, educators were asked to determine the
@@ -118,7 +118,7 @@ provided in *Appendix* 3.1A.
 
 ![](img/alignstudy.png)
 
-## 6.4 Reporting
+## Reporting
 
 Oregon's reporting system facilitates appropriate, credible, and defensible
 interpretation and use of its assessment data. With regard to the ORExt, the
@@ -132,7 +132,7 @@ considered here as an overarching summation of the Oregon Extended assessment
 system, as well as the mechanisms that Oregon uses to continuously improve the
 ORExt assessment (see *Appendix* 2.3B.10).
 
-### 6.4A Public Reporting
+### 6.4A Public Reporting {.unnumbered}
 
 Oregon reports participation and assessment results for all students and for
 each of the required subgroups in its reports at the school, district, and state
@@ -152,7 +152,7 @@ Standard Error of Measure (SEM) for each student score into the report
 templates. The SEM associated with each cut score is provided in Section 4.1B.
 Also, see the mock-up ISR in *Appendix* 6.4C.
 
-### 6.4C1 - C5 State Provides Individual Student Reports {.unnumbered}
+### 6.4C State Provides Individual Student Reports {.unnumbered}
 
 Oregon's student reports provide valid and reliable information regarding
 achievement on the assessments relative to the AAS. The reliability of the data

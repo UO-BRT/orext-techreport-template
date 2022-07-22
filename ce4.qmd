@@ -1,6 +1,6 @@
 # Technical Quality: Other
 
-## 4.1 Reliability
+## Reliability
 
 Test reliability can be viewed through several lenses, all of which
 document how consistently an assessment performs across occasions,
@@ -30,31 +30,31 @@ grade, and the marginal reliabilities. All test forms were composed of
 # code for marginal reliability tables
 ```
 
-### Test Information Functions
+### 4.1B Test Information Functions {.unnumbered}
 
 The test information functions published below also indicate that the
 scales exhibit a reliability greater than or equal to .80 for all
 proficient-level cutscores.
 
-### English Language Arts TIFs
+### 4.1C English Language Arts TIFs {.unnumbered}
 
 ```{r}
 # code for ELA TIFs
 ```
 
-### Mathematics TIFs
+### 4.1D Mathematics TIFs {.unnumbered}
 
 ```{r }
 # code for Math TIFs
 ```
 
-### Science TIFs
+### 4.1E Science TIFs {.unnumbered}
 
 ```{r}
 # code for Science TIFs
 ```
 
-### Validation of ORExt Vertical Scales
+### 4.1F Validation of ORExt Vertical Scales {.unnumbered}
 
 The Test Characteristic Curves (TCCs) for the grade-level assessments in
 ELA and mathematics demonstrate incrementally increasing growth and test
@@ -71,7 +71,7 @@ the r2Winsteps package (Anderson, 2015).
 # code for TCCs here
 ```
 
-### 4.1B Overall and Conditional Standard Errors of Measure {.unnumbered}
+### 4.1G Overall and Conditional Standard Errors of Measure {.unnumbered}
 
 The average SEM associated with each cut score for 2017-18 student data
 are presented in the table below, supported by a KEY. The SEMs decreased
@@ -87,7 +87,7 @@ Meets Level 3 = Meets Level 4 = Exceeds
 # code for tables with SE for each cut score
 ```
 
-### 4.1C Classification Accuracy & Consistency {.unnumbered}
+### 4.1H Classification Accuracy & Consistency {.unnumbered}
 
 Results from the 2017-18 ORExt test administration were analyzed using
 Rudner's classification index [@rudner05]. Results closer to 1.0
@@ -108,7 +108,7 @@ consistency.
 The ORExt is not a computer-adaptive instrument so estimate precision
 documentation based upon that test design is not provided.
 
-## 4.2 Fairness and Accessibility
+## Fairness and Accessibility
 
 The state has taken steps to ensure fairness in the development of the
 assessments, including an analysis of each test item by Oregon teachers
@@ -119,7 +119,7 @@ increases the likelihood that students are receiving instruction in
 areas reflected in the assessment, and also that the items are not
 biased toward a particular demographic or sub-group.
 
-### Differential Item Functioning Analyses
+### 4.2A Differential Item Functioning Analyses {.unnumbered}
 
 To investigate Differential Item Functioning (DIF), the Mantel-Haenszel
 test using a purification process was conducted [@holland88; @kamata04] 
@@ -206,7 +206,7 @@ Males.
 # code to actually print gender DIF tables
 ```
 
-### Race - Ethnicity Percentages and Totals by Content Area and Grade Level
+### 4.2B Race - Ethnicity Percentages and Totals by Content Area and Grade Level {.unnumbered}
 
 The full ethnic and disability demographics for students taking the
 ORExt are reported below. Students ethnicity/race was reported in seven
@@ -232,14 +232,14 @@ areas. There is thus very little change in terms of participation
 percentages across content areas, as evidenced by the total n-sizes per
 grade level displayed below.
 
-### Exceptionality Percentages By Content Area and Grade Level
+### 4.2C Exceptionality Percentages By Content Area and Grade Level {.unnumbered}
 
 ```{r }
 # code for participation by disability table 
 # (same as above but by disability code)
 ```
 
-### Observed Means and Standard Deviations
+### 4.2D Observed Means and Standard Deviations {.unnumbered}
 
 The following tables provide information regarding observed means and
 standard deviations by content area and grade level. The Grade 3-8
@@ -287,7 +287,7 @@ areas assessed on the ORExt.
 
 #### Observed Means Reported by Exceptionality Status
 
-The following table is a number key for **Elibibility Codes:**
+The following table is a number key for **Eligibility Codes:**
 
 ##### Eligibility Codes List
 
@@ -333,7 +333,7 @@ performing group, which led to concerns regarding test accessibility.
 # as well as within-group variation (e.g., sina plots, raincloud plots, etc.)
 ```
 
-## 4.3 Full Performance Continuum
+## Full Performance Continuum
 
 The ORExt is designed to sample the Common Core State Standards in
 English language arts (Reading, Writing, and Language) and Mathematics,
@@ -376,25 +376,25 @@ and content areas. The item person distributions provided below
 demonstrate that the ORExt is providing a performance continuum for
 students who participate.
 
-### English Language Arts Person/Item Distributions
+### 4.3A English Language Arts Person/Item Distributions {.unnumbered}
 
 ```{r }
 # code for ELA person-item distributions
 ```
 
-### Mathematics Person/Item Distributions
+### 4.3B Mathematics Person/Item Distributions {.unnumbered}
 
 ```{r }
 # code for Math person-item distributions
 ```
 
-### Science Person/Item Distributions
+### 4.3C Science Person/Item Distributions {.unnumbered}
 
 ```{r }
 # code for Science person-item distributions
 ```
 
-## 4.4 Scoring
+## Scoring
 
 All scoring expectations for the ORExt are established within the
 Administration Manual (see *Appendix* 2.3, p. 14). The scoring
@@ -411,13 +411,13 @@ Individual Student Reports (see *Appendix* 6.4C) for annual performance,
 growth, and as part of Essential Skills requirements for very low
 performing students (see *Appendix* 2.1A).
 
-## 4.5 Multiple Assessment Forms
+## Multiple Assessment Forms
 
-The ORExt was administered in only form per subject area and grade level
-for the 2017-18 school year, with 36 operational items arranged in order
+The ORExt was administered in one form per subject area and grade level
+for the 2021-22 school year, with 36 operational items arranged in order
 of empirical difficulty and 12 embedded field test items.
 
-## 4.6 Multiple Versions of An Assessment
+## Multiple Versions of An Assessment
 
 The ORExt is provided in the standard format, but is also available in
 Large Print and Brailled formats. Test content is identical across all
@@ -427,7 +427,7 @@ the student in reporting. Substantive test comparability analyses are
 not feasible, given the small n-sizes of the samples involved in the
 alternative versions.
 
-## 4.7 Technical Analyses and Ongoing Maintenance
+## Technical Analyses and Ongoing Maintenance
 
 The ORExt technical analyses that document reliability and validity are
 included in this technical report (see Sections 3 and 4, respectively).

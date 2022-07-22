@@ -1,6 +1,6 @@
 # Assessment Operations
 
-## 2.1 Test Design and Development
+## Test Design and Development
 
 The test specifications document that describes our approach to assessment and
 test design for the ORExt is published in *Appendix* 2.1. The document includes
@@ -53,14 +53,14 @@ Oregon Qualified Assessors.
 
 The ORExt is not a computer-adaptive instrument, so these concerns do not apply.
 
-## 2.2 Item Development
+## Item Development
 
 Item writers were recruited by ODE staff using an existing Qualified
 Assessor/Qualified Trainer listserv.
 
 ![](img/ItemDev.png)
 
-### Project Description:
+### 2.2A Project Description: {.unnumbered}
 
 Behavioral Research and Teaching at the University of Oregon recruited Oregon
 teachers to participate in item development for a new alternate assessment.
@@ -74,7 +74,7 @@ participate in a half-day item development training based upon the following
 schedule: ELA - Tuesday, from 8 AM to 12 PM; Math - Wednesday, from 8 AM to 12
 PM; Science - Thursday, from 8 AM to 12 PM.
 
-### Minimum Qualifications:
+### 2.2B Minimum Qualifications: {.unnumbered}
 
 All licensed Oregon public school teachers with at least three years of teaching
 in a life skills/severe needs program (SPED) or a general education classroom
@@ -82,7 +82,7 @@ in a life skills/severe needs program (SPED) or a general education classroom
 item writing experience, additional years of teaching experience, and higher
 education degree status.
 
-### Compensation:
+### 2.2C Compensation: {.unnumbered}
 
 Teachers who participated in this process were compensated at a rate of \$20/hr
 via professional service contracts. It was anticipated that teachers would
@@ -92,7 +92,7 @@ maximum contract amount for ELA was \$1,800, for Science \$1,440, and for Math
 with no need to produce graphics (rather use labels for a BRT graphic designer
 to produce).
 
-### Contact:
+### 2.2D Contact: {.unnumbered}
 
 Because the timeline required work over the summer, Oregon teacher recruitment
 was challenging. BRT researchers thus performed an additional on-campus
@@ -122,7 +122,7 @@ once items were developed (see *Appendix* 2.2.2). Sample items are provided in
 *Appendix* 2.2.3 for stakeholder reference, demonstrating the format and style
 of typical items on the ORExt.
 
-## 2.3 Test Administration
+## Test Administration
 
 The ORExt assessments are administered according to the administration, scoring,
 analysis, and reporting criteria established in the ORExt General Administration
@@ -406,7 +406,7 @@ made to the electronic test based on technology improvements and feedback from
 the field. Data entry for all platforms is now maintained and monitored by
 secure BRT servers.
 
-## 2.4 Monitoring Test Administration
+## Monitoring Test Administration
 
 The ODE maintains a rigorous training system to support standardized test
 administration for the  [Oregon K12
@@ -437,7 +437,7 @@ the ORExt is addressed via general ODE reporting systems. Information regarding
 this process can be located in the general assessment system Peer Review
 evidence submission.
 
-## 2.5 Test Security
+## Test Security
 
 ### 2.5A Prevention of Assessment Irregularities {.unnumbered}
 
@@ -477,7 +477,7 @@ determined based upon contextual issues that are brought to light during the
 investigation. Additional information regarding this process can be located in
 the general assessment system Peer Review evidence submission.
 
-## 2.6 Systems for Protecting Data Integrity and Privacy
+## Systems for Protecting Data Integrity and Privacy
 
 ### 2.6A Integrity of Test Materials {.unnumbered}
 
@@ -504,7 +504,7 @@ submission.
 
 ### 2.6B Secure Student-Level Assessment Data {.unnumbered}
 
-Student level datais protected by relevant training and through a secure data
+Student level data is protected by relevant training and through a secure data
 system in which all data entry is conducted online using password-protected,
 secure procedures on the  [Oregon K12
 website](https://or.k12test.com) Only trained users with a vested

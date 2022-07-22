@@ -11,7 +11,7 @@ library(tidyverse)
 ```
 
 
-## 3.1 Overall Validity, Including Validity Based on Content
+## Overall Validity, Including Validity Based on Content
 
 As elaborated by @messick89, the validity argument involves a claim with
 evidence evaluated to make a judgment. Three essential components of assessment
@@ -218,7 +218,7 @@ can be considered justifiable for the population for the subject area.
   Essentialized Standards were rationally selected. None of the standards
   de-selected (for inaccessibility or for being covered elsewhere) were strongly
   identified for re- inclusion, nor were identified as a critical hole for this
-  population of students. 
+  population of students.
 Second, reviewers were asked to identify the strength of the link between the
 source standard and the Essentialized Standard. This finding was used to infer
 that the process undertaken to essentialize a given Source Standard did not
@@ -270,7 +270,7 @@ standard).
   individuals in that category did not agree that the items and ALDs were
   aligned)."
 
-## 3.2 Validity Based on Cognitive Processes
+## Validity Based on Cognitive Processes
 
 Evidence of content coverage is concerned with judgments about "the extent to
 which the content domain of a test represents the domain defined in the test
@@ -311,7 +311,7 @@ tapping the intended cognitive processes and that the items are at the
 appropriate grade level through the linkage/alignment studies documented above,
 including reviews of linkage, content coverage, and depth of knowledge.
 
-## 3.3 Validity Based on Internal Structure (Content and Function)
+## Validity Based on Internal Structure (Content and Function)
 
 The Oregon Extended assessments reflect patterns of emphasis that are supported
 by Oregon educators as indicated by the following three tables that highlight
@@ -340,7 +340,7 @@ design and have been shown to be reliable measures at the test level (see
 Section 4.1). The process of addressing any gaps or weaknesses in the system is
 accomplished via field-testing (see Section 3.1A).
 
-### Point Measure Correlations
+### 3.3A Point Measure Correlations {.unnumbered}
 
 ```{r}
 # code for point measure correlation here tables here
@@ -371,7 +371,7 @@ Math and one item in Grade 11 Science will also be removed.
 # code for mean square outfit tables here (mean, min, max)
 ```
 
-### Annual Measureable Objectives Frequencies & Percentages
+### 3.3B Annual Measureable Objectives Frequencies & Percentages {.unnumbered}
 
 Annual Measurable Objective (AMO) calculations were conducted based upon student
 performance on the ORExt tied to the vertical scale using Rasch modeling.
@@ -393,7 +393,7 @@ only has two possible scale score points (e.g., Grade 7, where Level 2 exists
 between 207-208 scaled scores). The addition of 1-2 low complexity items per
 assessment will be effected in mathematics to address this concern, as well.
 
-## 3.4 Validity Based on Relations to Other Variables
+## Validity Based on Relations to Other Variables
 
 Perhaps the best model for understanding criterion-related evidence comes from
 Campbell and Fiske (1959)  in their description of the multi-trait, multi-method
@@ -409,7 +409,7 @@ performance on items is totaled within categories of disability, expecting
 relations that would reflect appropriate differences (see Tindal, McDonald,
 Tedesco, Glasgow, Almond, Crawford, & Hollenbeck, 2003).
 
-### Convergent and Divergent Validity Documentation
+### 3.4A Convergent and Divergent Validity Documentation {.unnumbered}
 
 Criterion validity information is difficult to document with AA-AAAS, as most
 SWSCD do not participate in any standardized assessment outside of the ORExt
@@ -445,7 +445,7 @@ is sampling academic domains that the field of QAs and QTs deem appropriate in
 the area of academics. See *Appendix* 2.3B.10 for complete consequential
 vailidity study results.
 
-### Analyses Within and Across Subject Areas
+### 3.4B Analyses Within and Across Subject Areas {.unnumbered}
 
 We conducted correlational analyses to further explore the validity of the
 ORExt. We first describe the purpose of the analysis, as well as our anticipated
@@ -467,7 +467,7 @@ Therefore, we would expect moderately strong correlations (e.g., 0.7) simply
 because of the within-subject design. Idiosyncratic variance associated with the
 individual student is thus captured.
 
-### Correlational Analyses Results
+### 3.4C Correlational Analyses Results {.unnumbered}
 
 Full results of the Pearson's product-moment correlation analysis by content
 area and grade level are reported below. The results are significant, yet the
