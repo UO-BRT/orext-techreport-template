@@ -1,4 +1,4 @@
-# Statewide System
+# Statewide System of Standards and Assessments
 
 ## State Adoption of Academic Content Standards for All Students
 
@@ -108,18 +108,18 @@ guidance documents. For example in the Oregon Test Administration Manual (TAM),
 where it states that, "All students enrolled in grades 3-8 and in high school
 must take the required Oregon Statewide Assessments offered at their enrolled
 grade, including students re-enrolled in the same grade as in the prior year,
-unless the student receives a parent-requested exemption..." (TestAdministrationManual).
+unless the student receives a parent-requested exemption..." (@TestAdministrationManual).
 
 ### 1.4A English Learners {.unnumbered}
 
 English learners are included as appropriate in Oregon's statewide assessment
-system. (ELProgramGuide). The Smarter Balanced assessment
+system. (@ELProgramGuide). The Smarter Balanced assessment
 directions are translated into multiple languages and available via the Oaks
 portal. OAR 581-022-0620 (2) requires ODE to provide translated OAKS assessments
 for populations at or above 9% in grades K-12 within three years after the
-school year in which the language exceeds the threshold (OregonSe38:online).
+school year in which the language exceeds the threshold (@OregonSe38:online).
 In addition, the accommodations available to students who participate in the
-ORExt include translation into the native language, where appropriate (AccessibilityManual).
+ORExt include translation into the native language, where appropriate (@AccessibilityManual).
 
 ### 1.4B Native Language Assessments {.unnumbered}
 
